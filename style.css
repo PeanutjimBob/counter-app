@@ -1,0 +1,56 @@
+html, body{
+    font-family: arial;
+    text-align: center;
+    background-color: rgba(65, 222, 65, 0.793);
+    border: 5px solid;
+    border-style:groove;
+}
+
+
+
+h1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: blue;
+}
+
+h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+button {
+     width: 100px;
+     font-size: 100px;
+     border-radius: 50px 50px;
+     border-style:double;
+     border: 10px dotted blue;
+     
+   
+    
+}
+
+#increment-btn {
+    background: rgb(119, 0, 128);
+   
+}
+
+#decrement-btn {
+     background: rgb(228, 42, 42);
+}
+
+#save-btn{
+    background: rgb(221, 130, 12);
+}
+
+
+#save-el{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    border: 5px dotted blue;
+}
